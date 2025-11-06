@@ -1,6 +1,5 @@
 # Intelligent Job-CV Matching System for Sri Lankan IT Professionals
 
-**Author:** Kevin Anjalo Rathnasiri 
 **Project Type:** Machine Learning - Unsupervised Learning  
 **Domain:** Semantic Job Matching & Recommendation System
 
@@ -1441,6 +1440,7 @@ This project is for educational purposes.
 - Real-time job scraping
 - User feedback collection
 - Performance optimizations
+
 
 
 
